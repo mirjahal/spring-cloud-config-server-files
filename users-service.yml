@@ -14,4 +14,4 @@ eureka:
     wait-time-in-ms-when-sync-empty: 3000
 
 mocky:
-  user-service-uri: http://www.mocky.io/v2/5b05e1d93200009213ebfa7e
+  user-service-uri: http://localhost:9999/v2/5b05e1d93200009213ebfa7e
